@@ -1,0 +1,15 @@
+.topictitle h2 {
+  font-size: 1.4em!important;
+}
+p.bbcrumb {
+  font-size: 1.1em;
+}
+#ed_toolbar {
+  display: none;
+}
+#thread li.postitem {
+ font-size: 1.1em;
+ background: #f8f8f8;
+ border-radius: 8px;
+ padding: 8px;
+}
