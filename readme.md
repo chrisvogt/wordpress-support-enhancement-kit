@@ -1,6 +1,7 @@
 # Wordpress.org Support Enhancement Kit
 
 [![GitHub release](https://img.shields.io/github/release/chrisvogt/wordpress-support-enhancement-kit.svg?style=flat-square)]()
+[![Code Climate](https://img.shields.io/codeclimate/github/chrisvogt/wordpress-support-enhancement-kit.svg?style=flat-square)]()
 [![GitHub license](https://img.shields.io/github/license/chrisvogt/wordpress-support-enhancement-kit.svg?style=flat-square)]()
 <img src="screenshot.gif" alt="WSEK chrome extension" width="320" align="right">
 
